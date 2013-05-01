@@ -1,0 +1,309 @@
+^abyectas/abyecto<adj><f><pl>$
+^./.<sent>$
+^abyectos/abyecto<adj><m><pl>$
+^en fila de a/en fila de a<cnjadv>$
+^estaríamos al corriente/estar<vblex><cni><p1><pl># al corriente$
+^estando al corriente/estar<vblex><ger># al corriente$
+^estándome al corriente/estar<vblex><ger>+prpers<prn><enc><p1><mf><sg># al corriente$
+^estuvimos al corriente/estar<vblex><ifi><p1><pl># al corriente$
+^estemos al corriente/estar<vblex><prs><p1><pl># al corriente/estar<vblex><imp><p1><pl># al corriente$
+^estémonos al corriente/estar<vblex><imp><p1><pl>+prpers<prn><enc><p1><mf><pl># al corriente$
+^estad al corriente/estar<vblex><imp><p2><pl># al corriente$
+^estar al corriente/estar<vblex><inf># al corriente$
+^estarme al corriente/estar<vblex><inf>+prpers<prn><enc><p1><mf><sg># al corriente$
+^estuviéramos al corriente/estar<vblex><pis><p1><pl># al corriente$
+^estado al corriente/estar<vblex><pp><m><sg># al corriente$
+^empezamos de nuevo/empezar<vblex><pri><p1><pl># de nuevo/empezar<vblex><ifi><p1><pl># de nuevo$
+^empieza de nuevo/empezar<vblex><pri><p3><sg># de nuevo/empezar<vblex><imp><p2><sg># de nuevo$
+^erizos de mar/erizo<n><m><pl># de mar$
+^brusquedades/brusquedad<n><f><pl>$
+^moradas/morada<n><f><pl>/morar<vblex><pp><f><pl>/morado<adj><f><pl>$
+^abominables/abominable<adj><mf><pl>$
+^aborígenes/aborigen<n><mf><pl>/aborigen<adj><mf><pl>$
+^atajo/atajo<n><m><sg>/atajar<vblex><pri><p1><sg>$
+^por el bien de/por el bien de<pr>$
+^por el bien del/por el bien de<pr>+el<det><def><m><sg>$
+^a través de la carretera/a través de la carretera<adv>$
+^ACT/ACT<np><al><m><sg>$
+^Garai/Garai<np><cog><mf><sg>$
+^GP/GP<n><acr><m><sg>$
+^FARC/FARC<n><acr><f><pl>$
+^Concello de Moaña/Concello de Moaña<np><loc><m><sg>$
+^Astillero/Astillero<n><m><sg>/Astillero<np><al><m><sg>$
+^encuadre/encuadre<n><m><sg>/encuadrar<vblex><prs><p3><sg>/encuadrar<vblex><imp><p3><sg>$
+^encuadres/encuadre<n><m><pl>/encuadrar<vblex><prs><p2><sg>$
+^renuncias/renuncia<n><f><pl>/renunciar<vblex><pri><p2><sg>$
+^renuncia/renuncia<n><f><sg>/renunciar<vblex><pri><p3><sg>/renunciar<vblex><imp><p2><sg>$
+^Hoyo/Hoyo<n><m><sg>/Hoyo<np><cog><mf><sg>$
+^confecciones/confección<n><f><pl>/confeccionar<vblex><prs><p2><sg>$
+^punteros/puntero<n><m><pl>/puntero<adj><m><pl>$
+^muchísimo/muchísimo<adv>/muchísimo<adj><m><sg>$
+^alternas/alternar<vblex><pri><p2><sg>/alterno<adj><f><pl>$
+^alterna/alternar<vblex><pri><p3><sg>/alternar<vblex><imp><p2><sg>/alterno<adj><f><sg>$
+^alterno/alternar<vblex><pri><p1><sg>/alterno<adj><m><sg>$
+^berria.info/berria.info<np><al><m><sg>/berria.info<web>$
+^programa/programa<n><m><sg>/programar<vblex><pri><p3><sg>/programar<vblex><imp><p2><sg>$
+^ensenadas/ensenada<n><f><pl>/ensenar<vblex><pp><f><pl>$
+^aspirantes/aspirante<n><m><pl>/aspirante<adj><mf><pl>$
+^chaval/chaval<n><m><sg>/chaval<n><f><sg>$
+^Pena/Pena<n><f><sg>/Pena<np><cog><mf><sg>$
+^morados/morar<vblex><pp><m><pl>/morado<adj><m><pl>$
+^apartados/apartado<n><m><pl>/apartar<vblex><pp><m><pl>$
+^destinadas/destinar<vblex><pp><f><pl>/destinado<adj><f><pl>$
+^ría/ría<n><f><sg>/reír<vblex><prs><p3><sg>/reír<vblex><imp><p3><sg>$
+^Izquierdo/Izquierdo<np><cog><mf><sg>/Izquierdo<adj><m><sg>$
+^Ares/Ares<np><cog><mf><sg>/Arar<vblex><prs><p2><sg>$
+^qué gracia/qué gracia<ij>$
+^premiers/premier<n><mf><pl>$
+^vete/vetar<vblex><prs><p3><sg>/vetar<vblex><imp><p3><sg>/ir<vblex><imp><p2><sg>+prpers<prn><enc><p2><mf><sg>$
+^lanzadoras/lanzador<n><f><pl>/lanzador<adj><f><pl>$
+^seríamos hora de/ser<vbser><cni><p1><pl># hora de$
+^siendo hora de/ser<vbser><ger># hora de$
+^siéndome hora de/ser<vbser><ger>+prpers<prn><enc><p1><mf><sg># hora de$
+^fuimos hora de/ser<vbser><ifi><p1><pl># hora de$
+^seamos hora de/ser<vbser><prs><p1><pl># hora de/ser<vbser><imp><p1><pl># hora de$
+^séamonos hora de/ser<vbser><imp><p1><pl>+prpers<prn><enc><p1><mf><pl># hora de$
+^sed hora de/ser<vbser><imp><p2><pl># hora de$
+^ser hora de/ser<vbser><inf># hora de$
+^serme hora de/ser<vbser><inf>+prpers<prn><enc><p1><mf><sg># hora de$
+^fuéramos hora de/ser<vbser><pis><p1><pl># hora de$
+^sido hora de/ser<vbser><pp><m><sg># hora de$
+^puestos en acción/ponerse<vblex><pron><pp><m><pl># en acción/ponerse<vblex><pron><pri><p1><pl># en acción$
+^sobre este particular/sobre este particular<adv>/sobre este particular<cnjadv>$
+^apenas/apenas<adv>/apenas<cnjadv>/apenar<vblex><pri><p2><sg>$
+^a fondo/a fondo<adv>/a fondo<adj><mf><sp>$
+^vallados/vallado<n><m><pl>/vallar<vblex><pp><m><pl>/vallado<adj><m><pl>$
+^debido a/debido a<pr>/deberse<vblex><pron><pp><m><sg># a$
+^amiga/amigo<n><f><sg>/amigarse<vblex><pron><pri><p3><sg>/amigarse<vblex><pron><imp><p2><sg>/amigo<adj><f><sg>$
+^amigo/amigo<n><m><sg>/amigarse<vblex><pron><pri><p1><sg>/amigo<adj><m><sg>$
+^amigas/amigo<n><f><pl>/amigarse<vblex><pron><pri><p2><sg>/amigo<adj><f><pl>$
+^amistad/amistad<n><f><sg>/amistar<vblex><imp><p2><pl>$
+^aparente/aparentar<vblex><prs><p3><sg>/aparentar<vblex><imp><p3><sg>/aparente<adj><mf><sg>$
+^aparentes/aparentar<vblex><prs><p2><sg>/aparente<adj><mf><pl>$
+^de que/de que<cnjsub>$
+^que/que<cnjsub>/que<rel><an><mf><sp>/que<cnjcoo>$
+^, puesto que/,<cm>$
+^según/según<cnjadv>/según<pr>$
+^como/como<cnjadv>/como<pr>/comer<vblex><pri><p1><sg>$
+^y/y<cnjcoo>$
+^lo/lo<det><def><nt><sg>/lo<prn><pro><p3><nt>$
+^algunas/alguno<det><qnt><f><pl>/alguno<prn><tn><f><pl>$
+^algún/alguno<det><qnt><m><sg>$
+^unos pocos/unos pocos<det><ind><m><pl>$
+^unas pocas/unos pocos<det><ind><f><pl>$
+^aquellas/aquel<det><dem><f><pl>/aquel<prn><tn><f><pl>$
+^aquellos/aquel<det><dem><m><pl>/aquel<prn><tn><m><pl>$
+^cada/cada<det><ind><mf><sg>$
+^ciertas/cierto<det><ind><f><pl>/cierto<adj><f><pl>$
+^ciertos/cierto<det><ind><m><pl>/cierto<adj><m><pl>$
+^las/el<det><def><f><pl>/prpers<prn><pro><p3><f><pl>$
+^los/el<det><def><m><pl>/prpers<prn><pro><p3><m><pl>$
+^este/este<n><m><sg>/este<det><dem><m><sg>/este<prn><tn><m><sg>$
+^nuestras/nuestro<det><pos><f><pl>/nuestro<adj><pos><f><pl>$
+^nuestros/nuestro<det><pos><m><pl>/nuestro<adj><pos><m><pl>$
+^unas/uno<det><ind><f><pl>/uno<prn><tn><f><pl>/unir<vblex><prs><p2><sg>$
+^una/uno<det><ind><f><sg>/uno<prn><tn><f><sg>/unir<vblex><prs><p3><sg>/unir<vblex><imp><p3><sg>$
+^bastante/bastante<preadv>/bastante<adv>/bastante<det><qnt><mf><sg>$
+^menos/menos<adv>/menos<det><qnt><mf><sp>$
+^más/más<adv>/más<preadv>/más<det><qnt><mf><sp>$
+^poco/poco<adv>/poco<det><qnt><m><sg>$
+^qué/qué<prn><itg><m><sg>/qué<preadv>/qué<det><itg><mf><sp>$
+^cuántas/cuánto<prn><itg><f><pl>/cuánto<det><itg><f><pl>$
+^cuántos/cuánto<prn><itg><m><pl>/cuánto<det><itg><m><pl>$
+^primera/primer<det><ord><f><sg>/primero<adj><f><sg>$
+^primeros/primer<det><ord><m><pl>/primero<adj><m><pl>$
+^segundo/segundo<n><m><sg>/segundo<det><ord><m><sg>$
+^octava/octava<n><f><sg>/octavo<det><ord><f><sg>$
+^todas/todo<predet><f><pl>/todo<prn><tn><f><pl>$
+^todo/todo<predet><nt><sp>/todo<predet><m><sg>/todo<prn><tn><m><sg>$
+^Miren/Miren<np><ant><f><sg>/Mirar<vblex><prs><p3><pl>/Mirar<vblex><imp><p3><pl>$
+^Cristiana/Cristiano<n><f><sg>/Cristiana<np><ant><f><sg>/Cristiano<adj><f><sg>$
+^Italia/Italia<np><ant><f><sg>/Italia<np><loc><f><sg>$
+^Adora/Adora<np><ant><f><sg>/Adorar<vblex><pri><p3><sg>/Adorar<vblex><imp><p2><sg>$
+^Alta/Alta<np><ant><f><sg>/Alto<adj><f><sg>$
+^Amada/Amado<n><f><sg>/Amada<np><ant><f><sg>/Amar<vblex><pp><f><sg>/Amado<adj><f><sg>$
+^Consuelo/Consuelo<n><m><sg>/Consuelo<np><ant><f><sg>/Consolar<vblex><pri><p1><sg>$
+^Cristiano/Cristiano<n><m><sg>/Cristiano<np><ant><m><sg>/Cristiano<adj><m><sg>$
+^Meo/Meo<np><ant><m><sg>/Mear<vblex><pri><p1><sg>$
+^Aguado/Aguado<np><cog><mf><sg>/Aguar<vblex><pp><m><sg>$
+^Diez/Diez<np><cog><mf><sg>/Diez<num><mf><sp>$
+^Amable/Amable<np><ant><f><sg>/Amable<adj><mf><sg>$
+^Irla/Irla<np><ant><f><sg>/Ir<vblex><inf>+prpers<prn><enc><p3><f><sg>$
+^Líala/Líala<np><ant><f><sg>/Liar<vblex><imp><p2><sg>+prpers<prn><enc><p3><f><sg>$
+^Libia/Libio<n><f><sg>/Libia<np><ant><f><sg>/Libia<np><loc><f><sg>/Libio<adj><f><sg>$
+^Maravillas/Maravilla<n><f><pl>/Maravillas<np><ant><f><sg>/Maravillarse<vblex><pron><pri><p2><sg>$
+^Rosa/Rosa<n><m><sg>/Rosa<n><f><sg>/Rosa<np><ant><f><sg>/Rosa<adj><mf><sg>$
+^Turquesa/Turquesa<n><f><sg>/Turquesa<np><ant><f><sg>/Turquesa<adj><mf><sg>$
+^Amado/Amado<n><m><sg>/Amado<np><ant><m><sg>/Amar<vblex><pp><m><sg>/Amado<adj><m><sg>$
+^Amando/Amando<np><ant><m><sg>/Amar<vblex><ger>$
+^Ante/Ante<np><ant><m><sg>/Ante<pr>$
+^Asad/Asad<np><ant><m><sg>/Asar<vblex><imp><p2><pl>$
+^Evangelista/Evangelista<n><mf><sg>/Evangelista<np><ant><m><sg>/Evangelista<adj><mf><sg>$
+^París/París<np><ant><m><sg>/París<np><loc><m><sg>/Parir<vblex><pri><p2><pl>$
+^Primo/Primo<n><m><sg>/Primo<np><ant><m><sg>/Primar<vblex><pri><p1><sg>/Primo<adj><m><sg>$
+^Segundo/Segundo<n><m><sg>/Segundo<det><ord><m><sg>/Segundo<np><ant><m><sg>$
+^Tomé/Tomé<np><ant><m><sg>/Tomar<vblex><ifi><p1><sg>$
+^Cesar/Cesar<np><ant><m><sg>/Cesar<vblex><inf>$
+^Sean/Sean<np><ant><m><sg>/Ser<vbser><prs><p3><pl>/Ser<vbser><imp><p3><pl>$
+^Ella/Ella<np><ant><f><sg>/Prpers<prn><tn><p3><f><sg>$
+^Estrella/Estrella<n><f><sg>/Estrella<np><ant><f><sg>/Estrellar<vblex><pri><p3><sg>/Estrellar<vblex><imp><p2><sg>$
+^Argentina/Argentino<n><f><sg>/Argentina<np><loc><f><sg>/Argentino<adj><f><sg>$
+^Chile/Chile<n><m><sg>/Chile<np><loc><m><sg>$
+^Cuba/Cuba<n><f><sg>/Cuba<np><loc><f><sg>$
+^Filipinas/Filipinas<np><loc><f><pl>/Filipino<adj><f><pl>$
+^Apple/Apple<np><cog><mf><sg>/Apple<np><al><m><sg>$
+^Mediterráneo/Mediterráneo<np><loc><m><sg>/Mediterráneo<adj><m><sg>$
+^adiós/adiós<n><m><sg>/adiós<ij>$
+^anochecer/anochecer<n><m><sg>/anochecer<vblex><inf>$
+^ases/as<n><m><pl>/asir<vblex><pri><p2><sg>/asar<vblex><prs><p2><sg>$
+^atenuantes/atenuante<n><f><pl>/atenuante<adj><mf><pl>$
+^auxiliares/auxiliar<n><mf><pl>/auxiliar<vblex><fts><p2><sg>/auxiliar<adj><mf><pl>$
+^auxiliar/auxiliar<n><mf><sg>/auxiliar<vblex><inf>/auxiliar<adj><mf><sg>$
+^base/base<n><f><sg>/basar<vblex><prs><p3><sg>/basar<vblex><imp><p3><sg>/base<adj><mf><sp>$
+^bien/bien<n><m><sg>/bien<preadv>/bien<adv>$
+^billones/billón<n><m><pl>/billón<num><mf><sp>$
+^capitales/capital<n><m><pl>/capital<n><f><pl>/capital<adj><mf><pl>$
+^claves/clave<n><f><pl>/clavar<vblex><prs><p2><sg>/clave<adj><mf><pl>$
+^correos/correo<n><m><pl>/correr<vblex><imp><p2><pl>+prpers<prn><enc><p2><mf><pl>$
+^cortes/corte<n><m><pl>/corte<n><f><pl>/cortar<vblex><prs><p2><sg>$
+^corte/corte<n><m><sg>/corte<n><f><sg>/cortar<vblex><prs><p3><sg>/cortar<vblex><imp><p3><sg>$
+^cupo/cupo<n><m><sg>/caber<vblex><ifi><p3><sg>$
+^curas/cura<n><m><pl>/cura<n><f><pl>/curar<vblex><pri><p2><sg>$
+^cura/cura<n><m><sg>/cura<n><f><sg>/curar<vblex><pri><p3><sg>/curar<vblex><imp><p2><sg>$
+^deber/deber<n><m><sg>/deber<vblex><inf>/deber<vbmod><inf>$
+^dotes/dote<n><mf><pl>/dotar<vblex><prs><p2><sg>$
+^dote/dote<n><mf><sg>/dotar<vblex><prs><p3><sg>/dotar<vblex><imp><p3><sg>$
+^entrevistas/entrevista<n><f><pl>/entrever<vblex><pp><f><pl>/entrevistar<vblex><pri><p2><sg>$
+^entrevista/entrevista<n><f><sg>/entrever<vblex><pp><f><sg>/entrevistar<vblex><pri><p3><sg>/entrevistar<vblex><imp><p2><sg>$
+^eras/era<n><f><pl>/ser<vbser><pii><p2><sg>$
+^gracias/gracia<n><f><pl>/gracias<ij>$
+^mal/mal<n><m><sg>/mal<adv>/mal<adj><m><sg>$
+^mañana/mañana<n><f><sg>/mañana<adv>$
+^medio/medio<n><m><sg>/medio<adv>/mediar<vblex><pri><p1><sg>/medio<adj><m><sg>$
+^piloto/piloto<n><mf><sg>/pilotar<vblex><pri><p1><sg>/piloto<adj><mf><sg>$
+^poder/poder<n><m><sg>/poder<vbmod><inf>$
+^policías/policía<n><f><pl>/policía<n><mf><pl>$
+^presentes/presente<n><m><pl>/presentar<vblex><prs><p2><sg>/presente<adj><mf><pl>$
+^presente/presente<n><m><sg>/presentar<vblex><prs><p3><sg>/presentar<vblex><imp><p3><sg>/presente<adj><mf><sg>$
+^ser/ser<n><m><sg>/ser<vbser><inf>$
+^soldados/soldado<n><mf><pl>/soldar<vblex><pp><m><pl>$
+^son/son<n><m><sg>/ser<vbser><pri><p3><pl>$
+^tarde/tarde<n><f><sg>/tarde<adv>/tardar<vblex><prs><p3><sg>/tardar<vblex><imp><p3><sg>$
+^titular/titular<n><mf><sg>/titular<vblex><inf>$
+^velas/vela<n><f><pl>/velar<vblex><pri><p2><sg>/ir<vblex><imp><p2><sg>+prpers<prn><enc><p3><f><pl>$
+^vela/vela<n><f><sg>/velar<vblex><pri><p3><sg>/velar<vblex><imp><p2><sg>/ir<vblex><imp><p2><sg>+prpers<prn><enc><p3><f><sg>$
+^velo/velo<n><m><sg>/velar<vblex><pri><p1><sg>/ir<vblex><imp><p2><sg>+lo<prn><enc><p3><nt>$
+^vistas/vista<n><f><pl>/ver<vblex><pp><f><pl>/vestir<vblex><prs><p2><sg>$
+^vista/vista<n><f><sg>/ver<vblex><pp><f><sg>/vestir<vblex><prs><p3><sg>/vestir<vblex><imp><p3><sg>$
+^vía/vía<n><f><sg>/vía<pr>$
+^CD/CD<n><acr><m><sg>/CD<num><mf><sg>$
+^vale/vale<n><m><sg>/vale<ij>/valer<vblex><pri><p3><sg>/valer<vblex><imp><p2><sg>$
+^bueno/bueno<ij>/bueno<adj><m><sg>$
+^bajo/bajo<pr>/bajar<vblex><pri><p1><sg>/bajo<adj><m><sg>$
+^blandas/blandir<vblex><prs><p2><sg>/blando<adj><f><pl>$
+^blanda/blandir<vblex><prs><p3><sg>/blandir<vblex><imp><p3><sg>/blando<adj><f><sg>$
+^inquieto/inquieto<adv>/inquietar<vblex><pri><p1><sg>/inquieto<adj><m><sg>$
+^modular/modular<vblex><inf>/modular<adj><mf><sg>$
+^mías/mío<adj><pos><f><pl>$
+^óseos/óseo<adj><m><pl>/osar<vblex><imp><p3><sg>+prpers<prn><enc><p2><mf><pl>$
+^contratando/contratar<vblex><ger>/contratando<adj><m><sg>$
+^habríamos/haber<vbhaver><cni><p1><pl>$
+^habiendo/haber<vbhaver><ger>$
+^habiéndome/haber<vbhaver><ger>+prpers<prn><enc><p1><mf><sg>$
+^hubimos/haber<vbhaver><ifi><p1><pl>$
+^haber/haber<vbhaver><inf>$
+^haberme/haber<vbhaver><inf>+prpers<prn><enc><p1><mf><sg>$
+^hubiéramos/haber<vbhaver><pis><p1><pl>$
+^habido/haber<vbhaver><pp><m><sg>$
+^debiéndoselas/deber<vblex><ger>+se<prn><enc><ref><p3><mf><sp>+prpers<prn><enc><p3><f><pl>/deber<vbmod><ger>+se<prn><enc><ref><p3><mf><sp>+prpers<prn><enc><p3><f><pl>$
+^debérselas/deber<vblex><inf>+se<prn><enc><ref><p3><mf><sp>+prpers<prn><enc><p3><f><pl>/deber<vbmod><inf>+se<prn><enc><ref><p3><mf><sp>+prpers<prn><enc><p3><f><pl>$
+^debiésemos/deber<vblex><pis><p1><pl>/deber<vbmod><pis><p1><pl>$
+^deberíamos/deber<vblex><cni><p1><pl>/deber<vbmod><cni><p1><pl>$
+^debiendo/deber<vblex><ger>/deber<vbmod><ger>$
+^debimos/deber<vblex><ifi><p1><pl>/deber<vbmod><ifi><p1><pl>$
+^debido/deber<vblex><pp><m><sg>/deber<vbmod><pp><m><sg>$
+^debe/deber<vblex><pri><p3><sg>/deber<vblex><imp><p2><sg>/deber<vbmod><pri><p3><sg>$
+^debamos/deber<vblex><prs><p1><pl>/deber<vblex><imp><p1><pl>/deber<vbmod><prs><p1><pl>$
+^hubiéremos de/haber<vbmod><fts><p1><pl># de$
+^habiéndoselas de/haber<vbmod><ger>+se<prn><enc><ref><p3><mf><sp>+prpers<prn><enc><p3><f><pl># de$
+^habérselas de/haber<vbmod><inf>+se<prn><enc><ref><p3><mf><sp>+prpers<prn><enc><p3><f><pl># de$
+^habríamos de/haber<vbmod><cni><p1><pl># de$
+^habiendo de/haber<vbmod><ger># de$
+^hubimos de/haber<vbmod><ifi><p1><pl># de$
+^haber de/haber<vbmod><inf># de$
+^habido de/haber<vbmod><pp><m><sg># de$
+^podamos/poder<vbmod><prs><p1><pl>/poder<vbmod><imp><p1><pl>$
+^podámonos/poder<vbmod><imp><p1><pl>+prpers<prn><enc><p1><mf><pl>$
+^poded/poder<vbmod><imp><p2><pl>$
+^puede/poder<vbmod><pri><p3><sg>/poder<vbmod><imp><p2><sg>$
+^queramos/querer<vblex><prs><p1><pl>/querer<vblex><imp><p1><pl>/querer<vbmod><prs><p1><pl>/querer<vbmod><imp><p1><pl>$
+^querámosme/querer<vblex><imp><p1><pl>+prpers<prn><enc><p1><mf><sg>/querer<vbmod><imp><p1><pl>+prpers<prn><enc><p1><mf><sg>$
+^quered/querer<vblex><imp><p2><pl>/querer<vbmod><imp><p2><pl>$
+^quiere/querer<vblex><pri><p3><sg>/querer<vblex><imp><p2><sg>/querer<vbmod><pri><p3><sg>/querer<vbmod><imp><p2><sg>$
+^querer/querer<vblex><inf>/querer<vbmod><inf>$
+^querido/querer<vblex><pp><m><sg>/querer<vbmod><pp><m><sg>/querido<adj><m><sg>$
+^querida/querer<vblex><pp><f><sg>/querer<vbmod><pp><f><sg>/querido<adj><f><sg>$
+^fuimos/ir<vblex><ifi><p1><pl>/ser<vbser><ifi><p1><pl>$
+^sed/sed<n><f><sg>/ser<vbser><imp><p2><pl>$
+^seos/seo<n><f><pl>/ser<vbser><imp><p2><pl>+prpers<prn><enc><p2><mf><pl>$
+^sé/saber<vblex><pri><p1><sg>/ser<vbser><imp><p2><sg>$
+^fuéramos/ir<vblex><pis><p1><pl>/ser<vbser><pis><p1><pl>$
+^fuera/fuera<adv>/ir<vblex><pis><p3><sg>/ser<vbser><pis><p3><sg>$
+^adelante/adelante<adv>/adelantar<vblex><prs><p3><sg>/adelantar<vblex><imp><p3><sg>$
+^arriba/arriba<adv>/arribar<vblex><pri><p3><sg>/arribar<vblex><imp><p2><sg>$
+^así/así<adv>/asir<vblex><ifi><p1><sg>$
+^asiste/asistir<vblex><pri><p3><sg>/asir<vblex><ifi><p2><sg>/asistir<vblex><imp><p2><sg>$
+^ase/asir<vblex><pri><p3><sg>/asar<vblex><prs><p3><sg>/asir<vblex><imp><p2><sg>$
+^cerca/cerca<n><f><sg>/cerca<adv>/cerca<pr>/cercar<vblex><pri><p3><sg>/cercar<vblex><imp><p2><sg>$
+^consumamos/consumar<vblex><pri><p1><pl>/consumar<vblex><ifi><p1><pl>/consumir<vblex><prs><p1><pl>/consumir<vblex><imp><p1><pl>$
+^consumáis/consumar<vblex><pri><p2><pl>/consumir<vblex><prs><p2><pl>$
+^di/dar<vblex><ifi><p1><sg>/decir<vblex><imp><p2><sg>$
+^diste/dar<vblex><ifi><p2><sg>/distar<vblex><prs><p3><sg>/distar<vblex><imp><p3><sg>$
+^entre/entre<pr>/entrar<vblex><prs><p3><sg>/entrar<vblex><imp><p3><sg>$
+^entreveros/entrevero<n><m><pl>/entrever<vblex><inf>+prpers<prn><enc><p2><mf><pl>$
+^examinando/examinando<n><m><sg>/examinar<vblex><ger>$
+^veles/velar<vblex><prs><p2><sg>/ir<vblex><imp><p2><sg>+prpers<prn><enc><p3><mf><pl>$
+^nada/nada<adv>/nada<prn><tn><m><sg>/nadar<vblex><pri><p3><sg>/nadar<vblex><imp><p2><sg>$
+^para/parar<vblex><pri><p3><sg>/parar<vblex><imp><p2><sg>/para<pr>$
+^para atención/parar<vblex><pri><p3><sg># atención/parar<vblex><imp><p2><sg># atención$
+^presto/presto<adv>/prestar<vblex><pri><p1><sg>$
+^salvo/salvo<pr>/salvar<vblex><pri><p1><sg>$
+^uno/uno<prn><tn><m><sg>/unir<vblex><pri><p1><sg>$
+^vestirse/vestirse<vblex><pron><inf>/vestir<vblex><inf>+se<prn><enc><ref><p3><mf><sp>$
+^valida/valer<vblex><pp><f><sg>/validar<vblex><pri><p3><sg>/validar<vblex><imp><p2><sg>$
+^más bien/más bien<preadv>/más bien<adv>$
+^muy/muy<preadv>$
+^adónde/adónde<adv><itg>$
+^sí/sí<adv>/sí<prn><tn><ref><p3><mf><sp>$
+^cien/cien<num><mf><sp>$
+^algo/algo<prn><tn><m><sg>$
+^cuáles/cuál<prn><itg><mf><pl>$
+^las mías/el mío<prn><pos><f><pl>$
+^ello/ello<prn><tn><nt>$
+^se/se<prn><pro><ref><p3><mf><sp>$
+^me/prpers<prn><pro><p1><mf><sg>$
+^adonde/adonde<rel><adv>$
+^las cuales/el cual<rel><nn><f><pl>$
+^Irán/Irán<np><loc><m><sg>/Ir<vblex><fti><p3><pl>$
+^Telefónica/Telefónica<np><al><f><sg>/Telefónico<adj><f><sg>$
+^aleluya/aleluya<n><m><sg>/aleluya<n><f><sg>/aleluya<ij>$
+^cuyas/cuyo<rel><aa><f><pl>$
+^Colorado/Colorado<np><loc><m><sg>/Colorar<vblex><pp><m><sg>$
+^et al/et al<n><acr><mf><sp>$
+^Lengua Española/Lengua española<n><f><sg>/Lengua Española<np><al><f><sg>$
+^Armada/Armada<np><al><f><sg>/Armar<vblex><pp><f><sg>/Armado<adj><f><sg>$
+^Montes/Monte<n><m><pl>/Montes<np><cog><mf><sg>/Montar<vblex><prs><p2><sg>$
+^ONCE/ONCE<np><al><f><sg>/ONCE<num><mf><sp>$
+^NATO/NATO<n><acr><f><sg>/NATO<adj><m><sg>$
+^ARE/ARE<np><al><m><sg>/ARAR<vblex><prs><p3><sg>/ARAR<vblex><imp><p3><sg>$
+^Remonta/Remonta<np><loc><f><sg>/Remontar<vblex><pri><p3><sg>/Remontar<vblex><imp><p2><sg>$
+^Morado/Morado<np><cog><mf><sg>/Morar<vblex><pp><m><sg>/Morado<adj><m><sg>$
+^Mancha/Mancha<n><f><sg>/Mancha<np><loc><f><sg>/Manchar<vblex><pri><p3><sg>/Manchar<vblex><imp><p2><sg>$
+^Acuario/Acuario<n><m><sg>/Acuario<np><al><m><sg>/Acuario<adj><mf><sp>$
+^Aries/Aries<np><al><m><sg>/Aries<adj><mf><sp>$
+^autodidactas/autodidacta<n><mf><pl>/autodidacto<adj><f><pl>$
+^'/'<apos>$
+^-/-<guio>$
+^(/(<lpar>$
+^)/)<rpar>$
+^¿/¿<lquest>$

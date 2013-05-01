@@ -1,0 +1,143 @@
+REGEX \^( __LEMMA__ <n> __TAGS__ | __LEMMA__ <np><loc> __TAGS__ )\$
+REGEX \^( __LEMMA__ <np><ant> __TAGS__ )\$
+REGEX \^( __LEMMA__ <np><al> __TAGS__ )\$
+REGEX \^( __LEMMA__ <np><cog> __TAGS__ )\$
+REGEX \^( __LEMMA__ <adj> __TAGS__ | __LEMMA__ <adj><pos> __TAGS__ )\$
+REGEX \^( __LEMMA__ <adj> __TAGS__ | __LEMMA__ <adj><pos> __TAGS__ | __LEMMA__ <vblex><pp> __TAGS__ )\$
+REGEX \^( __LEMMA__ <det><dem> __TAGS__ | __LEMMA__ <det><ind> __TAGS__ | __LEMMA__ <det><def> __TAGS__ | __LEMMA__ <det><pos> __TAGS__ | __LEMMA__ <det><qnt> __TAGS__ | __LEMMA__ <det><itg> __TAGS__ | __LEMMA__ <det><ord> __TAGS__ | __LEMMA__ <predet> __TAGS__ )\$
+REGEX \^(el<det><def><m><sg>)\$
+REGEX \^(el<det><def><m><sg>|uno<det><ind><m><sg>)\$
+REGEX \^(el<det><def><f><pl>)\$
+REGEX \^( __LEMMA__ <num><time>)\$
+REGEX \^(su majestad<n><f><sg>|su alteza<n><f><sg>|su alteza real<n><f><sg>)\$
+REGEX \^( __LEMMA__ <num> __TAGS__ | __LEMMA__ <num>)\$
+REGEX \^( __LEMMA__ <num><percent>)\$
+REGEX \^( __LEMMA__ <pr>)\$
+REGEX \^(a<pr>)\$
+REGEX \^(prpers<prn> __TAGS__ )\$
+REGEX \^(prpers<prn><tn> __TAGS__ )\$
+REGEX \^( __LEMMA__ <prn><tn><m> __TAGS__ | __LEMMA__ <prn><tn><f> __TAGS__ | __LEMMA__ <prn><tn><mf> __TAGS__ | __LEMMA__ <prn><tn><nt>| __LEMMA__ <prn><itg> __TAGS__ | __LEMMA__ <prn><pos> __TAGS__ )\$
+REGEX \^( __LEMMA__ <prn><enc> __TAGS__ )\$
+REGEX \^( __LEMMA__ <prn><pro> __TAGS__ )\$
+REGEX \^( __LEMMA__ <prn><pro><p1> __TAGS__ | __LEMMA__ <prn><pro><p2> __TAGS__ | __LEMMA__ <prn><pro><p3> __TAGS__ )\$
+REGEX \^(lo<prn><pro><p3><nt>|prpers<prn><pro><p3><m><sg>|prpers<prn><pro><p3><f><sg>)\$
+REGEX \^(lo<prn><enc><p3><nt>|prpers<prn><enc><p3><m><sg>|prpers<prn><enc><p3><f><sg>)\$
+REGEX \^(pasar\# bien<vblex> __TAGS__ |pasar\# mal<vblex> __TAGS__ )\$
+REGEX \^(pasar\# bien<vblex><pp><m><sg>|pasar\# mal<vblex><pp><m><sg>)\$
+REGEX \^(pasar\# bien<vblex><inf>|pasar\# bien<vblex><ger>|pasar\# mal<vblex><inf>|pasar\# mal<vblex><ger>)\$
+REGEX \^(pasar\# bien<vblex><imp> __TAGS__ |pasar\# mal<vblex><imp> __TAGS__ )\$
+REGEX \^(pasar\# bien<vblex><ger>|pasar\# mal<vblex><ger>)\$
+REGEX \^( __LEMMA__ <vblex><inf>| __LEMMA__ <vblex><pron><inf>| __LEMMA__ <vbser><inf>| __LEMMA__ <vbser><pron><inf>| __LEMMA__ <vbhaver><inf>| __LEMMA__ <vbhaver><pron><inf>| __LEMMA__ <vblex><ger>| __LEMMA__ <vblex><pron><ger>| __LEMMA__ <vbser><ger>| __LEMMA__ <vbser><pron><ger>| __LEMMA__ <vbhaver><ger>| __LEMMA__ <vbhaver><pron><ger>)\$
+REGEX \^( __LEMMA__ <vblex><imp> __TAGS__ | __LEMMA__ <vblex><pron><imp> __TAGS__ | __LEMMA__ <vbser><imp> __TAGS__ | __LEMMA__ <vbser><pron><imp> __TAGS__ | __LEMMA__ <vbhaver><imp> __TAGS__ | __LEMMA__ <vbhaver><pron><imp> __TAGS__ )\$
+REGEX \^( __LEMMA__ <vbmod> __TAGS__ )\$
+REGEX \^( __LEMMA__ <vbmod><inf>| __LEMMA__ <vbmod><ger>)\$
+REGEX \^( __LEMMA__ <vbhaver> __TAGS__ )\$
+REGEX \^( __LEMMA__ <vbhaver><inf>)\$
+REGEX \^( __LEMMA__ <vbhaver><cni><p3><sg>| __LEMMA__ <vbhaver><fti><p3><sg>| __LEMMA__ <vbhaver><fts><p3><sg>| __LEMMA__ <vbhaver><ifi><p3><sg>| __LEMMA__ <vbhaver><pii><p3><sg>| __LEMMA__ <vbhaver><pis><p3><sg>| __LEMMA__ <vbhaver><prs><p3><sg>|hay<vblex> __TAGS__ )\$
+REGEX \^(hay<vblex> __TAGS__ )\$
+REGEX \^(estar<vblex><cni> __TAGS__ |estar<vblex><fti> __TAGS__ |estar<vblex><ifi> __TAGS__ |estar<vblex><imp> __TAGS__ |estar<vblex><pii> __TAGS__ |estar<vblex><pis> __TAGS__ |estar<vblex><fts> __TAGS__ |estar<vblex><pri> __TAGS__ |estar<vblex><prs> __TAGS__ )\$
+REGEX \^( __LEMMA__ <vblex><cni> __TAGS__ | __LEMMA__ <vblex><fti> __TAGS__ | __LEMMA__ <vblex><ifi> __TAGS__ | __LEMMA__ <vblex><imp> __TAGS__ | __LEMMA__ <vblex><pii> __TAGS__ | __LEMMA__ <vblex><pis> __TAGS__ | __LEMMA__ <vblex><fts> __TAGS__ | __LEMMA__ <vblex><pri> __TAGS__ | __LEMMA__ <vblex><prs> __TAGS__ | __LEMMA__ <vbser><cni> __TAGS__ | __LEMMA__ <vbser><fti> __TAGS__ | __LEMMA__ <vbser><ifi> __TAGS__ | __LEMMA__ <vbser><imp> __TAGS__ | __LEMMA__ <vbser><pii> __TAGS__ | __LEMMA__ <vbser><pis> __TAGS__ | __LEMMA__ <vbser><fts> __TAGS__ | __LEMMA__ <vbser><pri> __TAGS__ | __LEMMA__ <vbser><prs> __TAGS__ | __LEMMA__ <vbhaver><cni> __TAGS__ | __LEMMA__ <vbhaver><fti> __TAGS__ | __LEMMA__ <vbhaver><ifi> __TAGS__ | __LEMMA__ <vbhaver><imp> __TAGS__ | __LEMMA__ <vbhaver><pii> __TAGS__ | __LEMMA__ <vbhaver><pis> __TAGS__ | __LEMMA__ <vbhaver><fts> __TAGS__ | __LEMMA__ <vbhaver><pri> __TAGS__ | __LEMMA__ <vbhaver><prs> __TAGS__ | __LEMMA__ <vbmod><cni> __TAGS__ | __LEMMA__ <vbmod><fti> __TAGS__ | __LEMMA__ <vbmod><ifi> __TAGS__ | __LEMMA__ <vbmod><imp> __TAGS__ | __LEMMA__ <vbmod><pii> __TAGS__ | __LEMMA__ <vbmod><pis> __TAGS__ | __LEMMA__ <vbmod><fts> __TAGS__ | __LEMMA__ <vbmod><pri> __TAGS__ | __LEMMA__ <vbmod><prs> __TAGS__ | __LEMMA__ <vblex><pron><cni> __TAGS__ | __LEMMA__ <vblex><pron><fti> __TAGS__ | __LEMMA__ <vblex><pron><ifi> __TAGS__ | __LEMMA__ <vblex><pron><imp> __TAGS__ | __LEMMA__ <vblex><pron><pii> __TAGS__ | __LEMMA__ <vblex><pron><pis> __TAGS__ | __LEMMA__ <vblex><pron><fts> __TAGS__ | __LEMMA__ <vblex><pron><pri> __TAGS__ | __LEMMA__ <vblex><pron><prs> __TAGS__ )\$
+REGEX \^( __LEMMA__ <vblex><pp> __TAGS__ | __LEMMA__ <vblex><pron><pp> __TAGS__ | __LEMMA__ <vbser><pp> __TAGS__ | __LEMMA__ <vbmod><pp> __TAGS__ | __LEMMA__ <vbhaver><pp> __TAGS__ )\$
+REGEX \^( __LEMMA__ <vblex><inf>| __LEMMA__ <vblex><pron><inf>| __LEMMA__ <vbser><inf>| __LEMMA__ <vbhaver><inf>| __LEMMA__ <vbmod><inf>)\$
+REGEX \^( __LEMMA__ <vblex><ger>| __LEMMA__ <vblex><pron><ger>| __LEMMA__ <vbser><ger>| __LEMMA__ <vbhaver><ger>| __LEMMA__ <vbmod><ger>)\$
+REGEX \^( __LEMMA__ <adv>| __LEMMA__ <preadv>)\$
+REGEX \^( __LEMMA__ <preadv>)\$
+REGEX \^(más<adv>|más<preadv>|más<det> __TAGS__ )\$
+REGEX \^( __LEMMA__ <adv>)\$
+REGEX \^( __LEMMA__ <adv><itg>)\$
+REGEX \^(no<adv>)\$
+REGEX \^(hacer<vblex><pri><p3><sg>)\$
+REGEX \^(año<n> __TAGS__ |mes<n> __TAGS__ |semana<n> __TAGS__ |día<n> __TAGS__ |hora<n> __TAGS__ |minuto<n> __TAGS__ |segundo<n> __TAGS__ )\$
+REGEX \^(y<cnjcoo>|o<cnjcoo>|pero<cnjcoo>)\$
+REGEX \^( __LEMMA__ <cnjcoo>| __LEMMA__ <cnjsub>| __LEMMA__ <cnjadv>)\$
+REGEX \^(para<pr>)\$
+REGEX \^(de<pr>)\$
+REGEX \^(por ello<cnjadv>)\$
+REGEX \^( __LEMMA__ <rel> __TAGS__ )\$
+REGEX \^(el que<rel><nn> __TAGS__ )\$
+REGEX \^(haber que<vbmod> __TAGS__ )\$
+REGEX \^( __LEMMA__ <sent>)\$
+REGEX \^( __LEMMA__ <cm>)\$
+REGEX \^(enero<n><m><sg>|febrero<n><m><sg>|marzo<n><m><sg>|abril<n><m><sg>|mayo<n><m><sg>|junio<n><m><sg>|julio<n><m><sg>|agosto<n><m><sg>|septiembre<n><m><sg>|setiembre<n><m><sg>|octubre<n><m><sg>|noviembre<n><m><sg>|diciembre<n><m><sg>)\$
+RULE 15 9 10 
+RULE 6 1 
+RULE 11 1 
+RULE 6 0 
+RULE 12 0 
+RULE 48 12 49 
+RULE 0 4 
+RULE 0 5 4 
+RULE 6 0 4 
+RULE 6 4 0 
+RULE 6 4 0 4 
+RULE 6 0 4 4 
+RULE 12 0 4 
+RULE 6 0 42 5 
+RULE 12 0 42 5 
+RULE 0 5 50 5 0 
+RULE 0 5 50 4 
+RULE 6 0 5 50 5 0 
+RULE 6 0 4 50 4 
+RULE 42 5 
+RULE 6 4 
+RULE 6 44 5 
+RULE 8 13 
+RULE 33 39 
+RULE 22 33 25 
+RULE 20 33 39 
+RULE 20 22 33 25 
+RULE 20 20 33 39 
+RULE 21 35 
+RULE 22 24 
+RULE 20 38 
+RULE 20 22 24 
+RULE 20 20 38 
+RULE 26 23 
+RULE 27 23 
+RULE 29 19 
+RULE 30 19 
+RULE 26 19 23 
+RULE 27 19 23 
+RULE 29 19 19 
+RULE 30 19 19 
+RULE 31 19 40 
+RULE 31 19 19 40 
+RULE 20 31 40 
+RULE 31 19 
+RULE 31 19 19 
+RULE 14 40 
+RULE 14 34 39 
+RULE 15 7 40 
+RULE 39 14 40 
+RULE 37 41 
+RULE 22 37 28 
+RULE 20 22 37 28 
+RULE 20 37 41 
+RULE 45 35 
+RULE 45 38 
+RULE 45 33 39 
+RULE 45 22 33 25 
+RULE 45 20 22 33 25 
+RULE 45 20 33 39 
+RULE 52 47 40 
+RULE 45 20 36 
+RULE 45 22 24 
+RULE 45 20 22 24 
+RULE 45 20 38 
+RULE 47 29 19 
+RULE 47 29 19 19 
+RULE 47 32 19 40 
+RULE 47 32 19 19 40 
+RULE 47 32 19 
+RULE 47 32 19 19 
+RULE 47 40 
+RULE 47 41 
+RULE 14 7 12 53 60 53 12 
+RULE 7 12 53 60 53 12 
+RULE 12 53 60 53 12 
+RULE 14 7 12 53 60 
+RULE 7 12 53 60 
+RULE 12 53 60 
+RULE 14 17 
+RULE 14 56 
+RULE 54 58 

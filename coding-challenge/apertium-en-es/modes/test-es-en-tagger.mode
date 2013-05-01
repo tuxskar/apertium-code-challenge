@@ -1,0 +1,3 @@
+    
+    lt-proc /home/skar/projects/apertium/coding-challenge/apertium-en-es/es-en.automorf.bin |apertium-tagger -g $2 /home/skar/projects/apertium/coding-challenge/apertium-en-es/es-en.prob 
+  
