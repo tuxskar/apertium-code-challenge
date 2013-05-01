@@ -30,6 +30,7 @@ On this case I choiced the en-es. To download it you can use directly from the s
 Once you get the repository, you just have to generate the .bin files and the .deps folder using:
 
     $> sh ./autogen.sh
+
     $> make
 
 Train a tagger in an unsupervised manner for one of the languages in your pair.
@@ -39,14 +40,14 @@ Once you autogen the language pair you have a folder es-tagged-data and the corp
 [Unsupervised tagger training](http://wiki.apertium.org/wiki/Unsupervised_tagger_training)
 
 You should rename es-tagger-data/es.corpus.txt to es-tagger-data/es.crp.txt to run the next comand and also rewrite the words :
+    
     Mar to mar
+
     VI to 6
 
 And then you can launch the command:
-    $> make -f en-es-unsupervised.make
 
-Getting the next output for it:
-unsupervised tagged corpus image
+    $> make -f en-es-unsupervised.make
 
 Once this finish you'll have the en-es.prob file that you expected have, so we are done :)
 
@@ -62,21 +63,29 @@ To tag manually the file you have to choose the correct word for every ambiguate
 
 Now train the tagger in a supervised manner from the corpus you just tagged. 
 - - -
-Once I have the earlier steps done, I'm able to tag supervisedly the corpus I tagged and disambeguated manually with the following instructions:
+Once I have the earlier s
+teps done, I'm able to tag supervisedly the corpus I tagged and disambeguated manually with the following instructions:
     
     $> cd es-tagger-data
+
     $> apertium-trigrams-langmodel -t -i history.txt > spanish.lm
+
     $> apertium-tagger-gen-crp-file history.txt ../es-en.automorf.bin > lang.crp
+
     $> apertium-tagger-gen-dic-file ../apertium-en-es.es.dix ../es-en.automorf.bin ../apertium-en-es.es.tsx > lang.dic
+
     $> apertium-xtract-regex-trules ../apertium-en-es.es-en.t1x > regexp-trules.txt
 
 Now we should scape the '#' characters, otherwise we will have the a 'lcre_missing )' error
 
     $> cp ../../apertium-tagger-training-tools/example/translation-script-es-ca-batch-mode.sh .
+
     $> mv translation-script-es-ca-batch.sh translation-script-es-ca-batch-mode.sh
 
 Now we should edit the DATA and DIRECTION variables to get them as 
+
     DATA=<path to en-es folder>
+
     DIRECTION=es-en
 
 As this language has no three-stage transfer we just have to leave the script.sh file as it is
@@ -84,9 +93,11 @@ As this language has no three-stage transfer we just have to leave the script.sh
 To prepare the likelihood script we just copy it from apertium-tagger-training-tools to this folder:
 
     $> cp ../../apertium-tagger-training-tools/example/likelihood-script-catalan-batch-mode.sh .
+
     $> mv likelihood-script-catalan-batch-mode.sh likelihood-script-spanish-batch-mode.sh
 
 and modify it changing the LMDATA as follow:
+
     LMDATA=spanish.lm
 
 Finally to get the probability file we use:
